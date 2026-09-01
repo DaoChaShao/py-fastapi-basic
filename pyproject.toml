@@ -5,7 +5,10 @@ description = "FastAPI application with basic knowledge"
 authors = [{ name = "Your Name" }]
 requires-python = ">=3.12"
 dependencies = [
+    "aiosqlite>=0.22.1",
     "fastapi>=0.141.1",
+    "greenlet>=3.5.5",
+    "sqlalchemy>=2.0.52",
     "uvicorn>=0.52.4",
 ]
 
