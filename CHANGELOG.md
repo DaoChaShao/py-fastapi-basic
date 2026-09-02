@@ -5,6 +5,7 @@
 
 ### Features
 
+- add a database ([0d3462d](https://github.com/DaoChaShao/py-fastapi-basic/commit/0d3462dae00e7fd80f19e2fd5086c11529cf9847))
 - **orm:** add book management endpoints with CRUD operations ([12d30f4](https://github.com/DaoChaShao/py-fastapi-basic/commit/12d30f400b074f1cbf9c28f3e5c1c2db718b74be))
 - **api:** add comprehensive API endpoints and database integration ([6140dfa](https://github.com/DaoChaShao/py-fastapi-basic/commit/6140dfa24d2cdc51e8d026df4d4855ffa411d01b))
 - **orm:** add book management API endpoints with CRUD operations ([d5618a6](https://github.com/DaoChaShao/py-fastapi-basic/commit/d5618a6f3cf6826219b23c20013444493dd67f61))
@@ -50,6 +51,7 @@
 
 ### Docs
 
+- **changelog:** update changelog with recent API and ORM changes ([44a1405](https://github.com/DaoChaShao/py-fastapi-basic/commit/44a14057028b2ab757528ac3938934b3bddf12e9))
 - **readme:** add Chinese README with privacy policy and setup instructions ([f74a2b8](https://github.com/DaoChaShao/py-fastapi-basic/commit/f74a2b857914616729ecb35042fc32ee10ffd452))
 - **readme:** add comprehensive README with privacy notice and setup instructions ([3af17b9](https://github.com/DaoChaShao/py-fastapi-basic/commit/3af17b9b949be6d01b2dac669d6255777b37e78b))
 
