@@ -128,5 +128,5 @@ SESSION: async_sessionmaker = async_sessionmaker(
 
 async def get_session():
     """ Get a database session. """
-    async with SESSION.begin() as session:
+    async with SESSION() as session:
         yield session
