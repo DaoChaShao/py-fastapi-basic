@@ -5,6 +5,8 @@
 
 ### Features
 
+- **orm:** add book management endpoints with CRUD operations ([12d30f4](https://github.com/DaoChaShao/py-fastapi-basic/commit/12d30f400b074f1cbf9c28f3e5c1c2db718b74be))
+- **api:** add comprehensive API endpoints and database integration ([6140dfa](https://github.com/DaoChaShao/py-fastapi-basic/commit/6140dfa24d2cdc51e8d026df4d4855ffa411d01b))
 - **orm:** add book management API endpoints with CRUD operations ([d5618a6](https://github.com/DaoChaShao/py-fastapi-basic/commit/d5618a6f3cf6826219b23c20013444493dd67f61))
 - **router:** add main router configuration file ([5d5f067](https://github.com/DaoChaShao/py-fastapi-basic/commit/5d5f06712d221e95b0b28bb50e169985f196b88e))
 - **middleware:** add right middleware implementation ([8caed82](https://github.com/DaoChaShao/py-fastapi-basic/commit/8caed824cdc0fb849f0272f4747b5f76bd3df58e))
@@ -53,6 +55,7 @@
 
 ### Code Refactoring
 
+- **orm:** update database session management in datasets endpoint ([1ad2ed2](https://github.com/DaoChaShao/py-fastapi-basic/commit/1ad2ed2312fad8e1216193ca9cde610fd1f78728))
 - **main:** restructure FastAPI application with database integration ([a040efb](https://github.com/DaoChaShao/py-fastapi-basic/commit/a040efbb06e77dcdc8766ab573d7cf151f9b7d0c))
 
 ### Tests
